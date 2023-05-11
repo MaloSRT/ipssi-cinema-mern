@@ -1,0 +1,11 @@
+{
+  "name": "cinema-back",
+  "version": "1.0.0",
+  "description": "Back-end projet cinéma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malo",
+  "license": "ISC"
+}
